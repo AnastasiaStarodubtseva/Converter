@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The Temperature Converter project was built in React. I spent two hours on the development. I managed to finish almost all tasks which I needed to complete. I ran out of time before I managed to implement the conversions counter feature, but I understand how it should work and it should not be so difficult.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
